@@ -1,6 +1,6 @@
-<h1 align="center">Hiiii! <img src="https://github.com/Drz103/Drz103/blob/main/" style="border-radius:5;" width="45px" alt=""><br></h1>
+<h1 align="center">Hiiii! <img src="https://github.com/Drz103/Drz103/blob/main/Radd.mp4" style="border-radius:5;" width="45px" alt=""><br></h1>
 <p align="center">
-<a href="https://youtube.com/c/radbotz"><img align="center" height="auto" src="https://github.com/Drz103/Drz103/blob/main/"/></a>
+<a href="https://youtube.com/c/radbotz"><img align="center" height="auto" src="https://github.com/Drz103/Drz103/blob/main/RadBot.mp4"/></a>
 
 <p align="center">
 
