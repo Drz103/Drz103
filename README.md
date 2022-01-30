@@ -1,6 +1,6 @@
 <h1 align="center">Hiiii! <img src="https://github.com/Drz103/Drz103/blob/main/wibu.jpg" style="border-radius:5;" width="45px" alt=""><br></h1>
 <p align="center">
-<a href="https://youtube.com/c/radbotz"><img align="center" height="auto" src="https://github.com/Drz103/Drz103/blob/main/radbotz.jpg"/></a>
+<a href="https://youtube.com/c/radbotz"><img align="center" height="auto" src="https://github.com/Drz103/Drz103/blob/main/radbotz.gif"/></a>
 
 <p align="center">
 
