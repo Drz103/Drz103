@@ -1,11 +1,10 @@
 <h1 align="center">Hiiii! <img src="https://github.com/Drz103/Drz103/blob/main/radbotz.jpg" style="border-radius:5;" width="45px" alt=""><br></h1>
 <p align="center">
-<a href="https://youtube.com/c/radbotz"><img align="center" height="auto" src="https://github.com/Drz103/Drz103/blob/main/Raditya.jpg"/></a>
+<a href="https://youtube.com/c/ra"><img align="center" height="auto" src="https://github.com/Drz103/Drz103/blob/main/Raditya.jpg"/></a>
 
 <p align="center">
 
-- Hy Im Raditya
-- I am 17 years old
+- Hy👋
 - I live in Indonesian
 - Thank you and follow me
 
@@ -14,7 +13,7 @@
 
 ### Connect with me 
 <p align="center">
-  <a href="https://wa.me/62858929626673"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
+  <a href="https://wa.me/6285892962667"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
 
 ------
 
