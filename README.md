@@ -33,5 +33,5 @@
 
 ### Repo Stats 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Drz103&repo=RadBot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Drz103&repo=rfkbot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Drz103&repo=Asupan-1&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Drz103&repo=database&theme=dark)
