@@ -29,8 +29,6 @@
 
 ![github card](https://github-readme-stats.vercel.app/api?username=Drz103&show_icons=true&theme=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Drz103&theme=monokai)
-
 ### Repo Stats 
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Drz103&repo=Asupan&theme=dark)
